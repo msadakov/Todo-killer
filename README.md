@@ -42,3 +42,6 @@ twitter
 _Интеграция_
 slack (bot)
 telegram (bot)
+github issues
+gitlab issues
+
