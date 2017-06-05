@@ -38,6 +38,8 @@ google drive
 yandex disk
 |||||
 _Backup_
+автоматический
+_в_
 dropbox
 google drive
 yandex disk
