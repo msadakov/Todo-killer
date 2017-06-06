@@ -3,7 +3,9 @@
 ## Функционал
 
 :white_check_mark:`:white_check_mark:` - есть
+
 :heavy_minus_sign:`:heavy_minus_sign:` - нету
+
 <sub>Если пусто, то не известно</sub>
 
 ### Бесплатный 
